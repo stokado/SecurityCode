@@ -1,0 +1,41 @@
+{
+	"random": 38,
+	"bool": true,
+	"firstname": "Celisse",
+	"lastname": "Shaddock",
+	"city": "Antananarivo",
+	"country": "Nicaragua",
+	"countryCode": "PM",
+	"email uses current data": "Celisse.Shaddock@gmail.com",
+	"arr": [
+		1,
+		-2,
+		-900,
+		200,
+		888
+	],
+	"array": [
+		"Nyssa",
+		"Esmeralda",
+		"Correy",
+		"Shauna",
+		"Vinita"
+	],
+	"array of objects": [
+		{
+			"index": 0,
+			"index start at 5": 5
+		},
+		{
+			"index": 1,
+			"index start at 5": 6
+		},
+		{
+			"index": 2,
+			"index start at 5": 7
+		}
+	],
+	"Adele": {
+		"age": 42
+	}
+}
